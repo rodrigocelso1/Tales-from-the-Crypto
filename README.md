@@ -9,6 +9,28 @@ In this assignment, you will apply natural language processing to understand the
 Complete the following tasks:
 
 * 1.Sentiment Analysis
+
+* 1.1 - Which coin had the highest mean positive score?
+
+* 1.2 - Which coin had the highest compound score?
+
+* 1.3 - Which coin had the highest positive score?
+
+* **A**: Ethereum had the highest mean positive score, the highest compound score and highest positive score
+
+![Sentiment_Analysis](/Images/Sentiment_Analysis.png)
+
 * 2.Natural Language Processing
+### Bitcoin word cloud
+![Bitcoin_WC](/Images/bitcoin_word_cloud.png)
+
+
+### Ethereum word cloud
+![Ethereum_WC](/Images/ethereum_word_cloud.png)
+
 * 3.Named Entity Recognition
+
+![Bitcoin_ner](/Images/bitcoin_ner.png)
+
+![Ethereum_ner](/Images/ethereum_ner.png)
 
